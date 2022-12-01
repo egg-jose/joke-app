@@ -1,4 +1,6 @@
-# joke-app
+# joke App
+## A random joke generator
+### Warning these jokes can be unfunny
 
 ## Project setup
 ```
